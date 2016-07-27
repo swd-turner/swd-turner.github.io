@@ -71,6 +71,7 @@ p {
 
 #contactDetails {
 	float: right;
+        line-height: 20px;
 }
 
 #contactDetails ul {
@@ -86,7 +87,7 @@ p {
 
 #contactDetails ul li a, a[href^=tel] {
 	color: #444; 
-	text-decoration: none;
+	text-decoration: underline;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
 	-o-transition: all .3s ease-in;
