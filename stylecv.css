@@ -22,6 +22,21 @@ p {
 	color: #444;
 }
 
+bi {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.p2 {
+	font-size: 1em;
+	line-height: 1.4em;
+	margin-bottom: 10px;
+	color: #444;
+}
+
+
+
+
 #cv {
 	width: 90%;
 	max-width: 800px;
