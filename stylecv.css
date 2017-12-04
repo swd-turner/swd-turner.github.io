@@ -74,7 +74,7 @@ bi {
 }
 
 #headshot img {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
@@ -87,6 +87,7 @@ bi {
 #contactDetails {
 	float: right;
         line-height: 20px;
+		text-align: right
 }
 
 #contactDetails ul {
